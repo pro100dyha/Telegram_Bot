@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.pyc
+settings.py
+__pycache__/
+
+/static/
